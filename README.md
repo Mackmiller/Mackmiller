@@ -1,6 +1,6 @@
 
 ## Hi, I'm Mackenzie! 
-Musician → Digital Designer → Software Engineer
+Musician → Digital Designer → Full Stack Engineer
 
 A few of my interests:
  - 📊  data 
