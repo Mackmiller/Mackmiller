@@ -9,4 +9,4 @@ A few of my interests:
  - 🌐  accessibility
  - 🗣  collaboration/communication
  
-New projects coming soon!
+Check out my pinned repos for some new projects.
