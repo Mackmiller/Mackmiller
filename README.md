@@ -9,4 +9,4 @@ A few of my interests:
  - 🌐  accessibility
  - 🗣  collaboration/communication
  
-Check out my pinned repos for some new projects.
+Check out my pinned repos for some new projects, or check out my latest developer portfolio [here](https://mackmiller.dev/)
