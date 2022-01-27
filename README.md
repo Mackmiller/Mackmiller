@@ -8,6 +8,7 @@ A few of my interests:
  - 🎨  creative coding
  - 🌐  accessibility
  - 🗣  collaboration/communication
+ - 💡 new technology
 
 Developer portfolio: [https://mackmiller.dev/](https://mackmiller.dev/)
  
