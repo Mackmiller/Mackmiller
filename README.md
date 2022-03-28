@@ -1,6 +1,5 @@
 
 ## Hi, I'm Mackenzie! 
-Musician → Digital Designer → Full Stack Engineer
 
 A few of my interests:
  - 📊  data 
@@ -8,8 +7,4 @@ A few of my interests:
  - 🎨  creative coding
  - 🌐  accessibility
  - 🗣  collaboration/communication
- - 💡 new technology
-
-Developer portfolio: [https://mackmiller.dev/](https://mackmiller.dev/)
- 
-Check out my pinned repos below for some new projects 👇
+ - 💡  new technology
